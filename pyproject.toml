@@ -1,0 +1,6 @@
+[project]
+name = "black"
+requires-python = ">=3.7"
+
+[tool.black]
+line-length = 120
